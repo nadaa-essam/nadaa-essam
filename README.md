@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="display: flex; align-items: center; gap: 8px;">
-  Hey<img src="ezgif.com-resize.gif" width="18" alt="Hi">, I'm Nada Essam!
+  Hey<img src="ezgif.com-resize.gif" width="30" alt="Hi">, I'm Nada Essam!
 
 </h1>
 
