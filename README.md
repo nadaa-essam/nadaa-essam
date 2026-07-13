@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="ezgif.com-resize.gif" width="18" alt="Hi">
-</p>
 <div align="center">
 
 <h1 style="display: flex; align-items: center; gap: 8px;">
-  Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" height="32" style="vertical-align: middle;">, I'm Nada Essam!
+  Hey<img src="ezgif.com-resize.gif" width="18" alt="Hi">, I'm Nada Essam!
 
 </h1>
 
